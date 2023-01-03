@@ -1,0 +1,11 @@
+baseURL = 'https://hnolzen.github.io/'
+languageCode = 'de-de'
+title = 'Almuth Art'
+theme = 'eternity'
+enableEmoji = true
+
+[params]
+title = "Almuth Art"
+author = "hnolzen"
+description = "Website of Almuth Art"
+
