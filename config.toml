@@ -1,5 +1,5 @@
-baseURL = 'https://hnolzen.github.io/'
-languageCode = 'de-de'
+baseURL = 'https://hnolzen.github.io/almuth-art/'
+languageCode = 'de'
 title = 'Almuth Art'
 theme = 'eternity'
 enableEmoji = true
