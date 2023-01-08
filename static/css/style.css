@@ -144,11 +144,11 @@ a img {
 }
 
 .title-404 {
-    font-size: 6em;
+	font-size: 6em;
 }
 
 .subtitle-404 {
-    font-size: 1.7em;
+	font-size: 1.7em;
 }
 
 .header-404 {
@@ -157,7 +157,7 @@ a img {
 }
 
 .body-404 {
-    margin-top: 20vh;
+	margin-top: 20vh;
 }
 
 /* Portfolio list */
