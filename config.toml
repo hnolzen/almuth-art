@@ -1,11 +1,15 @@
 baseURL = 'https://hnolzen.github.io/almuth-art/'
 languageCode = 'de'
-title = 'Almuth Art'
+title = 'Almuth Minich'
 theme = 'eternity'
 enableEmoji = true
 
 [params]
 title = "Almuth Art"
 author = "hnolzen"
-description = "Website of Almuth Art"
+description = "Website of Almuth Minich"
 
+  [[params.socials]]
+      icon = 'far fa-envelope fa-lg'
+      url = 'mailto: '
+      landing = true
