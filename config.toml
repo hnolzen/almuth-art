@@ -1,6 +1,7 @@
 baseURL = 'https://hnolzen.github.io/almuth-art/'
 languageCode = 'de'
 title = 'Almuth Minich'
+subtitle = 'Kunst aus dem Emsland'
 theme = 'eternity'
 enableEmoji = true
 

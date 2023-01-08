@@ -1,4 +1,4 @@
 ---
 desc:
-- Kunst aus Spelle
+- Kunst aus dem Emsland
 ---
