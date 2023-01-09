@@ -12,7 +12,8 @@ description = "Almuth Minich"
 
 copyright = 'Alle Rechte vorbehalten.'
 
-homepage = "/welcome"
+homepage = "/welcome/"
+bypassWelcomePage = true
 
 [portfolio.columns.desktop]
 natur = 4
