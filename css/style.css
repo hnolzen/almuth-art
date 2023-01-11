@@ -84,7 +84,8 @@
 }
 
 nav.navbar {
-    background-color: var(--dark);
+    background-color: var(--white);
+	color: var(--dark);
     justify-content: people-between;
     align-items: center;
     height: unset !important;
@@ -100,6 +101,7 @@ nav.navbar {
 
 .menu {
     max-width: 600px;
+	color: var(--dark);
 }
 
 .margin-bottom-50 {
@@ -142,11 +144,11 @@ a img {
 }
 
 .title-404 {
-    font-size: 6em;
+	font-size: 6em;
 }
 
 .subtitle-404 {
-    font-size: 1.7em;
+	font-size: 1.7em;
 }
 
 .header-404 {
@@ -155,7 +157,7 @@ a img {
 }
 
 .body-404 {
-    margin-top: 20vh;
+	margin-top: 20vh;
 }
 
 /* Portfolio list */
@@ -322,8 +324,8 @@ section .column img {
 }
 
 .footer {
-    background-color: var(--dark);
-    color: rgb(245, 245, 245);
+    background-color: var(--white);
+    color: var(--dark);
 }
 
 .source-love {
