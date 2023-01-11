@@ -1,11 +1,71 @@
-baseURL = 'https://hnolzen.github.io/'
-languageCode = 'de-de'
-title = 'Almuth Art'
+baseURL = 'https://hnolzen.github.io/almuth-art/'
+languageCode = 'de'
+title = 'Almuth Minich'
+subtitle = 'Kunst aus dem Emsland'
 theme = 'eternity'
 enableEmoji = true
 
 [params]
-title = "Almuth Art"
-author = "hnolzen"
-description = "Website of Almuth Art"
+title = "Almuth Minich"
+author = "Almuth Minich"
+description = "Almuth Minich"
 
+copyright = 'Alle Rechte vorbehalten.'
+
+homepage = "/welcome/"
+bypassWelcomePage = true
+
+[portfolio.columns.desktop]
+natur = 4
+abstract = 2
+archiv = 6
+default = 3
+
+[portfolio.columns.mobile]
+default = 2
+archiv = 3
+
+[[params.socials]]
+icon = 'far fa-envelope fa-lg'
+url = 'mailto: '
+landing = true
+
+specialPages = ['welcome', 'archiv']
+
+disableRadius = false
+moveIt = false
+disableAlwaysResize = false
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+tag = "tags"
+
+[[menu.main]]
+    name = 'willkommen'
+    url = '/welcome/'
+    weight = 1
+
+[[menu.main]]
+	name = 'abstrakt'
+    url = '/tags/abstrakt/'
+    weight = 2
+
+[[menu.main]]
+	name = "natur"
+    url = '/tags/natur/'
+    weight = 3
+
+[[menu.main]]
+    name = 'archiv'
+    url = '/tags/archiv/'
+    weight = 4
+	
+[[menu.main]]
+    name = 'über'
+    url = '/about/'
+    weight = 5
