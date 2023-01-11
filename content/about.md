@@ -17,8 +17,8 @@ tba
 ### Kontakt & Impressum
 
 Angaben gemäß § 5 TMG:  
-Vorname Nachname  
-Straße  
-PLZ Ort  
+Almuth Minich  
+Mendelssohnweg 8   
+48480 Spelle  
   
-E-Mail:
+E-Mail: tba.
