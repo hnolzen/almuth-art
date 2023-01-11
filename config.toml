@@ -19,7 +19,6 @@ bypassWelcomePage = true
 natur = 4
 abstract = 2
 archiv = 6
-tiere = 2
 default = 3
 
 [portfolio.columns.mobile]
@@ -57,21 +56,16 @@ tag = "tags"
     weight = 2
 
 [[menu.main]]
-    name = 'tiere'
-    url = '/tags/tiere/'
-    weight = 3
-
-[[menu.main]]
 	name = "natur"
     url = '/tags/natur/'
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = 'archiv'
     url = '/tags/archiv/'
-    weight = 5
+    weight = 4
 	
 [[menu.main]]
     name = 'über'
     url = '/about/'
-    weight = 6
+    weight = 5
