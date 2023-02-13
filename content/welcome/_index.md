@@ -8,8 +8,10 @@ hideTitle: true
 
 Schöne Kunst aus dem Emsland.
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hallo, mein Name ist Almuth Minich, ich wohne im Emsland und heiße euch herzlich auf meiner Homepage willkommen.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Seit einigen Jahren habe ich die Malerei für mich entdeckt. Ihr widme ich viel Zeit und entdecke immer wieder neue Möglichkeiten mich weiterzuentwickeln. 
+
+Hiermit lade ich euch herzlich zu einem Spaziergang durch meine Bildergalerie ein und und wünsche euch viel Freude beim Anschauen meiner Kunstwerke. 
 
 :warning: **Diese Internetseite befindet sich derzeit noch im Aufbau.** :warning:
