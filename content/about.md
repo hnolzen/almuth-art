@@ -7,17 +7,27 @@ hideDate: true
 ---
 
 ### Vorstellung
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ich bin im Jahr 1952  geboren und wohne seit 25 Jahren im Emsland. Vor einigen Jahren habe ich die Malerei für mich entdeckt. Das Hantieren mit Pinseln und Farben bereichert mein Leben und lässt mich viele schöne Momente während des Entstehens eines Bildes erleben. 
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Meine Vorliebe gilt der Acrylmalerei mit ihren vielfältigen Möglichkeiten, sei es mittels Strukturpaste, Sand, Rakeln, Rolltechnik und auch anderen Materialien für z. B. Collagen. 
+
+Mein Bestreben ist es, mit Menschen in Kontakt zu treten und diese von meinen Bildern zu begeistern. 
+
+Ich bin Mitglied des Kunstvereins Kreative Kunst Spelle e. V. sowie einer Kunstschule in Freren und arbeite regelmäßig im dortigen Atelier.
 
 
 ### Ausstellungen
-tba
 
-01.01.2022, Veranstaltung, Ort.  
-01.01.2021, Veranstaltung, Ort.  
-01.01.2020, Veranstaltung, Ort.
+#### 2022 
+- Tagungs- und Begegnungszentrum Ludwig-Windhorst-Haus, Lingen  
+- Psychologische Beratungsstelle, Lingen  
+
+#### 2019 
+- Theater an der Wilhelmshöhe, Lingen  
+
+#### 2017 
+- Theater an der Wilhelmshöhe, Lingen  
+
 
 
 ### Kontakt & Impressum
