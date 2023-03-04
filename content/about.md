@@ -37,7 +37,4 @@ Almuth Minich
 Mendelssohnweg 8   
 48480 Spelle  
   
-E-Mail: tba.
-
-
-:warning: **Diese Internetseite befindet sich derzeit noch im Aufbau.** :warning:
+E-Mail: almuth.minich@posteo.de

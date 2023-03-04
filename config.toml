@@ -27,7 +27,7 @@ archiv = 3
 
 [[params.socials]]
 icon = 'far fa-envelope fa-lg'
-url = 'mailto: '
+url = 'mailto:almuth.minich@posteo.de'
 landing = true
 
 specialPages = ['welcome', 'archiv']
