@@ -18,6 +18,9 @@ Ich bin Mitglied des Kunstvereins Kreative Kunst Spelle e. V. sowie einer Kunsts
 
 ### Ausstellungen
 
+#### 2023
+- Speller Kunsthandwerkermarkt, 11.-12.03.2023
+
 #### 2022 
 - Tagungs- und Begegnungszentrum Ludwig-Windhorst-Haus, Lingen  
 - Psychologische Beratungsstelle, Lingen  
@@ -37,7 +40,4 @@ Almuth Minich
 Mendelssohnweg 8   
 48480 Spelle  
   
-E-Mail: tba.
-
-
-:warning: **Diese Internetseite befindet sich derzeit noch im Aufbau.** :warning:
+E-Mail: almuth.minich@posteo.de
