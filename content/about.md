@@ -15,7 +15,7 @@ Mein Bestreben ist es, mit Menschen in Kontakt zu treten und diese von meinen Bi
 
 Ich bin Mitglied des Kunstvereins Kreative Kunst Spelle e. V. sowie einer Kunstschule in Freren und arbeite regelmäßig im dortigen Atelier.
 
-Falls Sie ein Bild käuflich werwerben möchten, schreiben Sie mir gerne eine E-Mail.
+Falls Sie ein Bild käuflich erwerben möchten, schreiben Sie mir gerne eine E-Mail.
 
 ### Ausstellungen
 
