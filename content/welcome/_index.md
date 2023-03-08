@@ -4,7 +4,7 @@ url: welcome
 hideTitle: true
 ---
 
-### Herzlich Willkommnen
+### Herzlich Willkommen
 
 Hallo, mein Name ist Almuth Minich, ich wohne im Emsland und heiße euch herzlich auf meiner Homepage willkommen.
 
