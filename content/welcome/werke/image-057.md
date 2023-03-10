@@ -5,7 +5,6 @@ images:
 title: abstrakt 1
 date: 2023-03-07
 tags:
-- willkommen
 - werke
 - abstrakt
 ---
