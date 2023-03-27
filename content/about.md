@@ -17,6 +17,8 @@ Ich bin Mitglied des Kunstvereins Kreative Kunst Spelle e. V. sowie einer Kunsts
 
 Falls Sie ein Bild käuflich erwerben möchten, schreiben Sie mir gerne eine E-Mail.
 
+![Almuth Minich](../vorstellung.jpg)
+
 ### Ausstellungen
 
 #### 2023
