@@ -7,7 +7,7 @@ hideDate: true
 ---
 
 ### Vorstellung
-Ich bin im Jahr 1952 geboren und wohne seit 25 Jahren im Emsland. Vor einigen Jahren habe ich die Malerei für mich entdeckt. Das Hantieren mit Pinseln und Farben bereichert mein Leben und lässt mich viele schöne Momente während des Entstehens eines Bildes erleben. 
+Ich bin im Jahr 1952 geboren und wohne seit 25 Jahren im Emsland. Vor einigen Jahren habe ich die Malerei für mich entdeckt.
 
 Meine Vorliebe gilt der Acrylmalerei mit ihren vielfältigen Möglichkeiten, sei es mittels Strukturpaste, Sand, Rakeln, Rolltechnik und auch anderen Materialien für z. B. Collagen. 
 
